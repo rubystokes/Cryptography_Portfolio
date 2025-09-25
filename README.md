@@ -1,2 +1,2 @@
 # Cryptography_Portfolio
-Collection of cryptography projects
+A collection of beginner cryptography projects to build proficiency in Python
